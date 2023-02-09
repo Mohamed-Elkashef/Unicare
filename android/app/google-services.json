@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860521009823",
+    "project_id": "unicare-c10e5",
+    "storage_bucket": "unicare-c10e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860521009823:android:092c40a49797431bc088aa",
+        "android_client_info": {
+          "package_name": "com.example.unicare5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860521009823-too2s36c1gdrrlmo45bpre2thi7pnu2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa2WjnMmkdO66pXkxUiBarMYAz_NMPGq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860521009823-too2s36c1gdrrlmo45bpre2thi7pnu2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
